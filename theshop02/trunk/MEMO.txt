@@ -1,0 +1,5 @@
+Full source. Multimodule AppFuse 2.1.0 project with JSF. Generated as:
+mvn archetype:generate -B -DarchetypeGroupId=org.appfuse.archetypes -DarchetypeArtifactId=appfuse-modular-jsf-archetype -DarchetypeVersion=2.1.0 -DgroupId=com.theshop02 -DartifactId=theshop02 -DarchetypeRepository=http://oss.sonatype.org/content/repositories/appfuse
+
+From project's root directory:
+mvn appfuse:full-source
